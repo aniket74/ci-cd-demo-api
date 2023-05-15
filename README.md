@@ -1,5 +1,3 @@
-Readme file. Added build.yml in github actions..
-
 About Build.yaml file -
 
 1. The Workflow is triggered by a push on the main branch.
@@ -24,6 +22,8 @@ Deploy Job -
 Deploy Job will only execute if the Build job is successfully completed.
 
 ------------------------------------------------------------------------------------------------------------------
+# All About Github Actions from Official Documentations --->
+
 # Github Actions Cache --->
 # Cache action
 
